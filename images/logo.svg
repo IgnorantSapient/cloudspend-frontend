@@ -6,14 +6,14 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-2" transform="translate(-1.000000, -3.000000)">
-            <g id="Group" transform="translate(201.000000, 19.000000)" fill="#34B6F8">
+            <g id="Group" transform="translate(201.000000, 19.000000)" fill="#5A5A50">
                 <rect id="Rectangle-2" x="3.45" y="0" width="4.95" height="12"></rect>
                 <rect id="Rectangle-2" transform="translate(6.000000, 6.075000) rotate(90.000000) translate(-6.000000, -6.075000) " x="3.525" y="0.075" width="4.95" height="12"></rect>
             </g>
-            <text id="CloudSpend" font-family="Kollektif" font-size="38" font-weight="normal" fill="#5A5950">
+            <text id="CloudSpend" font-family="Kollektif" font-size="38" font-weight="normal" fill="#FFFFFF">
                 <tspan x="0" y="31">CloudSpend</tspan>
             </text>
-            <text id="io" font-family="Kollektif" font-size="38" font-weight="normal" fill="#5A5950">
+            <text id="io" font-family="Kollektif" font-size="38" font-weight="normal" fill="#FFFFFF">
                 <tspan x="213" y="32">io</tspan>
             </text>
         </g>
